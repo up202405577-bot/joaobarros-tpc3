@@ -1,0 +1,4 @@
+appId: com.joaobarros.test
+---
+- launchApp
+- assertVisible: "Olá, o meu nome é João Barros."
